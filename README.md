@@ -1,9 +1,14 @@
 # history
-Welcome to my research archive.
+欢迎来到我的个人历史研究资料库。
 
-This repository contains my research notes on:
+本仓库主要收录本人关于中国近现代史、美国政治史等领域的阅读笔记、史料考证、专题研究与书目整理。
+所有文章均基于公开出版物、档案资料及学术研究，力求尊重史实、多方互证，并持续更新。
 
-- Modern Chinese History
-- Lin Biao Studies
-- Book Reviews
-- Historical Sources
+## 📂 仓库目录
+
+
+books/             读书笔记
+bibliography/      参考书目
+timelines/         年谱整理
+images/            历史图片
+sources/           原始史料
