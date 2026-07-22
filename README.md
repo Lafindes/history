@@ -6,9 +6,11 @@
 
 ## 📂 仓库目录
 
-
+```
+articles/          研究文章
 books/             读书笔记
 bibliography/      参考书目
 timelines/         年谱整理
 images/            历史图片
 sources/           原始史料
+```
